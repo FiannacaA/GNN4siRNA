@@ -1,5 +1,5 @@
 # GNN4siRNA
-GNN approach to face with the problem of siRNA-mRNA efficacy prediction
+GNN approach to face with the problem of siRNA-mRNA efficacy prediction.
 
 This repository provides the source code for "insert the paper's title".
 
